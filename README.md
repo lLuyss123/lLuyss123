@@ -1,5 +1,15 @@
 ## Hi there 👋
+I'm Luis Mejia
 
+- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on a project called RiwiTech Store
+
+- 💬 Ask me about me
+  
+  📫 How to reach me: Gmail: lmejiaidep@gmail.com
+
+
+  
 <!--
 **lLuyss123/lLuyss123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
