@@ -28,22 +28,6 @@ Power Query | DAX | Advanced Excel
 *Methodologies:*  
 Scrum | Kanban | Design Thinking  
 
----
-
-## 💼 Experience  
-
-*Professional Junior – Competitiveness & Productivity*  
-Ecopetrol S.A. (2024)  
-
-- Developed automation solutions.  
-- Integrated business tools and improved workflows.  
-- Supported data visualization and reporting initiatives.  
-
-*Bilingual Sales Agent*  
-
-- Sales and customer service for U.S. clients.  
-- Strong communication and negotiation skills.  
-- Results-oriented and performance-driven.  
 
 ---
 
