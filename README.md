@@ -1,13 +1,53 @@
-<h1 align="center">Hi 👋, I'm Luis Mejia</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+# 👋 Hi, I'm Luis Mejía  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lluyss123&label=Profile%20views&color=0e75b6&style=flat" alt="lluyss123" /> </p>
+💻 Systems Engineer | ⚡ Power Platform Specialist | 📊 Process Automation & Data Analysis  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+📍 Barranquilla, Colombia  
+🌎 Spanish (Native) | English (B2)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluyss123&show_icons=true&locale=en&layout=compact" alt="lluyss123" /></p>
+## 🚀 About Me  
+
+Systems Engineer with experience in business process automation and data analysis using Microsoft Power Platform.  
+
+During my internship at Ecopetrol S.A., I developed internal applications and automated workflows that improved operational efficiency, traceability, and strategic monitoring.  
+
+I enjoy building technological solutions that generate real business value and optimize processes through data-driven decisions.
+
+---
+
+## 🛠️ Tech Stack  
+
+*Power Platform:*  
+Power Apps | Power Automate | Power BI | Dataverse | SharePoint  
+
+*Data & Analytics:*  
+Power Query | DAX | Advanced Excel  
+
+*Methodologies:*  
+Scrum | Kanban | Design Thinking  
+
+---
+
+## 💼 Experience  
+
+*Professional Junior – Competitiveness & Productivity*  
+Ecopetrol S.A. (2024)  
+
+- Developed automation solutions.  
+- Integrated business tools and improved workflows.  
+- Supported data visualization and reporting initiatives.  
+
+*Bilingual Sales Agent*  
+
+- Sales and customer service for U.S. clients.  
+- Strong communication and negotiation skills.  
+- Results-oriented and performance-driven.  
+
+---
+
+## 📫 Contact  
+
+💼 LinkedIn: linkedin.com/in/luis-mejia-1a46511a9  
+📧 Email: lmejiaidep@gmail.com
